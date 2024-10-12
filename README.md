@@ -15,8 +15,3 @@ This project implements the Advanced Encryption Standard (AES) algorithm using A
 
 - An assembler that supports Assembly Language (emulator).
 
-## Usage
-
-1. **Build the Project**: Assemble the code using your preferred assembler.
-   ```bash
-   masm aes.asm
